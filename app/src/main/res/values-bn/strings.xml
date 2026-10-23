@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Agent</string>
+
+    <string name="nav_home">হোম</string>
+    <string name="nav_chats">চ্যাট</string>
+    <string name="nav_automations">অটোমেশন</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <string name="home_title">তোমার AI Agent প্রস্তুত</string>
+    <string name="home_tap_count">Orb ট্যাপ: %1$d</string>
+    <string name="placeholder_coming_soon">পরের কোনো ধাপে আসবে</string>
+</resources>

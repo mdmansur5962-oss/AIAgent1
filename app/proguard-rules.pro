@@ -1,0 +1,5 @@
+-keepattributes *Annotation*, InnerClasses, Signature
+-keepclassmembers class kotlinx.serialization.json.** { *** Companion; }
+-keepclasseswithmembers class **$$serializer { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
