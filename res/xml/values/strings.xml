@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MYRA</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_image">Image</string>
+    <string name="nav_agents">Agents</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_automations">Automations</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="placeholder_coming_soon">Coming in a later step</string>
+
+    <string name="accessibility_service_description">Lets the assistant read the screen and tap, type, scroll and swipe on your behalf. It never works inside banking apps, OTP screens or password fields.</string>
+
+    <string name="common_save">Save</string>
+    <string name="common_cancel">Cancel</string>
+
+    <string name="drawer_tagline">AI Assistant</string>
+    <string name="drawer_permissions">Permission Center</string>
+    <string name="drawer_design">Design System</string>
+
+    <string name="home_greeting_hello">Hello</string>
+    <string name="home_subtitle">Your AI assistant is ready. How can I help you today?</string>
+    <string name="home_set_name">Set your name</string>
+    <string name="home_name_dialog_title">What should I call you?</string>
+    <string name="home_name_label">Your name</string>
+    <string name="home_talk">Talk to %1$s</string>
+    <string name="home_talk_sub">Live voice</string>
+    <string name="home_orb_hint">Tap the orb to start talking</string>
+    <string name="home_ask_placeholder">Ask anything...</string>
+
+    <string name="tile_chat_title">Chat</string>
+    <string name="tile_chat_sub">Ask anything</string>
+    <string name="tile_image_title">Image Generator</string>
+    <string name="tile_image_sub">Create images</string>
+    <string name="tile_agents_title">AI Agents</string>
+    <string name="tile_agents_sub">Specialized bots</string>
+    <string name="tile_files_title">File Upload</string>
+    <string name="tile_files_sub">PDF, DOC, etc.</string>
+    <string name="tile_history_title">History</string>
+    <string name="tile_history_sub">Your conversations</string>
+    <string name="tile_more_title">More</string>
+    <string name="tile_more_sub">Tools and settings</string>
+
+    <string name="promo_title">Create Amazing Images</string>
+    <string name="promo_sub">Turn your ideas into stunning visuals with AI.</string>
+
+    <string name="recent_title">Recent chats</string>
+    <string name="recent_view_all">View all</string>
+    <string name="recent_empty_title">No conversations yet</string>
+    <string name="recent_empty_sub">Say hello to %1$s and your chats will show up here.</string>
+    <string name="recent_say_hello">Say hello</string>
+
+    <string name="msg_voice_soon">Live voice is coming soon</string>
+    <string name="msg_notifications_soon">Notifications are coming soon</string>
+
+    <string name="chat_new_title">New chat</string>
+    <string name="chat_input_hint">Type your message...</string>
+    <string name="chat_welcome">Hello! I am %1$s, your AI assistant. How can I help you today?</string>
+    <string name="chat_chip_explain">Explain something</string>
+    <string name="chat_chip_email">Write an email</string>
+    <string name="chat_chip_solve">Solve a problem</string>
+</resources>

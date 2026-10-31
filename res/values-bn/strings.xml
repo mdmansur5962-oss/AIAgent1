@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MYRA</string>
+
+    <string name="nav_home">হোম</string>
+    <string name="nav_chat">চ্যাট</string>
+    <string name="nav_image">ছবি</string>
+    <string name="nav_agents">এজেন্ট</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="nav_automations">অটোমেশন</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <string name="placeholder_coming_soon">পরের কোনো ধাপে আসবে</string>
+
+    <string name="accessibility_service_description">Assistant আপনার হয়ে screen পড়তে এবং ক্লিক, টাইপ, scroll ও swipe করতে পারবে। ব্যাংকিং অ্যাপ, OTP screen বা password field-এ এটি কখনো কাজ করবে না।</string>
+
+    <string name="common_save">সংরক্ষণ</string>
+    <string name="common_cancel">বাতিল</string>
+
+    <string name="drawer_tagline">এআই সহকারী</string>
+    <string name="drawer_permissions">পারমিশন সেন্টার</string>
+    <string name="drawer_design">ডিজাইন সিস্টেম</string>
+
+    <string name="home_greeting_hello">হ্যালো</string>
+    <string name="home_subtitle">আপনার AI সহকারী প্রস্তুত। আজ কীভাবে সাহায্য করতে পারি?</string>
+    <string name="home_set_name">আপনার নাম দিন</string>
+    <string name="home_name_dialog_title">আপনাকে কী বলে ডাকব?</string>
+    <string name="home_name_label">আপনার নাম</string>
+    <string name="home_talk">%1$s-এর সাথে কথা বলুন</string>
+    <string name="home_talk_sub">লাইভ ভয়েস</string>
+    <string name="home_orb_hint">কথা বলতে অর্বে ট্যাপ করুন</string>
+    <string name="home_ask_placeholder">যেকোনো কিছু জিজ্ঞেস করুন...</string>
+
+    <string name="tile_chat_title">চ্যাট</string>
+    <string name="tile_chat_sub">যেকোনো প্রশ্ন</string>
+    <string name="tile_image_title">ছবি বানান</string>
+    <string name="tile_image_sub">ছবি তৈরি করুন</string>
+    <string name="tile_agents_title">AI এজেন্ট</string>
+    <string name="tile_agents_sub">বিশেষ বট</string>
+    <string name="tile_files_title">ফাইল আপলোড</string>
+    <string name="tile_files_sub">PDF, DOC ইত্যাদি</string>
+    <string name="tile_history_title">ইতিহাস</string>
+    <string name="tile_history_sub">আপনার চ্যাট</string>
+    <string name="tile_more_title">আরও</string>
+    <string name="tile_more_sub">টুলস ও সেটিংস</string>
+
+    <string name="promo_title">দারুণ ছবি বানান</string>
+    <string name="promo_sub">আপনার আইডিয়াকে AI দিয়ে সুন্দর ছবিতে বদলান।</string>
+
+    <string name="recent_title">সাম্প্রতিক চ্যাট</string>
+    <string name="recent_view_all">সব দেখুন</string>
+    <string name="recent_empty_title">এখনো কোনো কথোপকথন নেই</string>
+    <string name="recent_empty_sub">%1$s-কে হ্যালো বলুন, আপনার চ্যাট এখানে দেখা যাবে।</string>
+    <string name="recent_say_hello">হ্যালো বলুন</string>
+
+    <string name="msg_voice_soon">লাইভ ভয়েস শীঘ্রই আসছে</string>
+    <string name="msg_notifications_soon">নোটিফিকেশন শীঘ্রই আসছে</string>
+
+    <string name="chat_new_title">নতুন চ্যাট</string>
+    <string name="chat_input_hint">আপনার বার্তা লিখুন...</string>
+    <string name="chat_welcome">হ্যালো! আমি %1$s, আপনার AI সহকারী। আজ কীভাবে সাহায্য করতে পারি?</string>
+    <string name="chat_chip_explain">কিছু বুঝিয়ে দিন</string>
+    <string name="chat_chip_email">একটি ইমেইল লিখুন</string>
+    <string name="chat_chip_solve">একটি সমস্যার সমাধান করুন</string>
+</resources>
